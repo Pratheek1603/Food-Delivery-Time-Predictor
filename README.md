@@ -6,7 +6,7 @@ When was the last time you ordered food online? And how long did it take to reac
 
 
 
-we are providing you with data from thousands of restaurants in India regarding the time they take to deliver food for online order. As data scientists, our goal is to predict the online order delivery time based on the given factors.
+we can provide you with data from thousands of restaurants in India regarding the time they take to deliver food for online order. As data scientists, our goal is to predict the online order delivery time based on the given factors.
 
 Size of training set: 11,094 records
 
